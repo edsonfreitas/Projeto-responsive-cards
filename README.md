@@ -4,7 +4,7 @@
 
 
 
-**Tela do PC!**
+**Tela do PC**
 ![Captura de tela 2021-06-19 194901](https://user-images.githubusercontent.com/83782010/122657174-71f1a380-d137-11eb-9720-6dc5b35ab26f.png)
 
 
